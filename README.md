@@ -4,7 +4,7 @@
 <h1 align="center" style="font-size: 20px;"> 프로젝트의 주제는 "온체인데이터를 활용한 이상치 발견 및 변동성 예측 모델"입니다. 최근 암호화폐 시장이 급속한 성장을 보이며, 이에 따라 투자 위험도가 높아지고 있습니다. 이런 상황에서,  “크립토퀀트”가 제공하는 데이터를 활용하여 이상징후를 사전에 발견하고, 이를 통해 가격 변동성을 예측하는 것이 본 프로젝트의 핵심 목표입니다.</h1>
 
 ## :trophy:Team Codilocks
-> <img src="https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/9302ef69-6a0f-423c-9bca-447357ca4990" width="900" height="100">
+> <img src="https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/9302ef69-6a0f-423c-9bca-447357ca4990" width="900" height="125">
 
 | 사진 | 팀원 | 역할 |
 | --- | --- | --- |
