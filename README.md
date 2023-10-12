@@ -1,12 +1,9 @@
 # :moneybag:온체인 데이터를 활용한 변동성 예측 프로젝트:chart_with_upwards_trend:
 
-
-
-
 ## 소개
 
-<h1 align="center">
-### 안녕하세요! 어린이를 위한 동화 제작 서비스 My AI Fairy-Tale입니다. 그림을 그리면 MIT가 동화를 만들어 줄거에요. MIT와 같이 재밌게 동화를 만들어 보아요!
+<h1 align="center" style="font-size: 20px;">
+안녕하세요! 어린이를 위한 동화 제작 서비스 My AI Fairy-Tale입니다. 그림을 그리면 MIT가 동화를 만들어 줄거에요. MIT와 같이 재밌게 동화를 만들어 보아요!
 </h1>
 
 ## 팀원 소개
