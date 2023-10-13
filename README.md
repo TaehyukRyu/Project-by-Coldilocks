@@ -13,12 +13,17 @@
 | ![Jeongyun](link-to) | 피근우 | 전처리, 데이터 구축, 전처리, 백엔드 알고리즘 구현 |
 | ![Junyeok](<img src="/uploads/1848994ad25765da30fa8ef3684c67bc/캡처.PNG"  width="700" height="370">) | 류태혁 | 모델링, 서버 구축, 백엔드 개발, 웹 기능 구현 테스트 |
 
-## 데이터 분석
-
-## 
-
 ## 서비스 소개
-오늘날 어린이들은 스마트폰과 태블릿을 통해 단순히 영상을 시청하는 등 수동적으로 미디어를 소비합니다. My AI Fairy-Tale은 어린이가 그린 그림을 활용하여 동화 이미지와 동화를 생성하여 직접 읽어주는 기능까지 탑재한 참여형 창작 웹서비스입니다.
+크립톤 퀀트에서 제공 하는 온체인 데이터 중 이상치를 찾아 비트코인 가격 그래프에서 변동성을 설명 할 수 있다고 생각되는 지표를 선정후 그중 선행한다고 판단되는 지표를 분석한다
+>> 
+
+## 서비스
+
+1. ![대쉬보드](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/eafee53b-99ec-46c6-a2d3-59921580aeac)
+
+
+2. ![텔레그램](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/9f05a380-a404-40ed-a92b-79c0f3d875f0)
+
 
 [My AI Fairy-Tale 바로가기](link-to-service)
 
