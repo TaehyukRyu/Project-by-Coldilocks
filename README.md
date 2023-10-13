@@ -19,7 +19,8 @@
 
 ## 서비스
 
-1. ![대쉬보드](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/eafee53b-99ec-46c6-a2d3-59921580aeac)
+1. ![대쉬보드_최종](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/7b8782fa-385b-4c8b-b67b-3adeacd3bcc8)
+
 
 
 2. ![텔레그램](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/9f05a380-a404-40ed-a92b-79c0f3d875f0)
@@ -27,8 +28,12 @@
 
 [My AI Fairy-Tale 바로가기](link-to-service)
 
-## 프로세스 맵
-[프로세스 맵](link-to-process-map)을 통해 프로젝트의 진행 상황과 각 단계를 확인할 수 있습니다.
+## 대쉬보드
+![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/d74ffda3-d658-44ea-bd8b-a05864c54bdf)
+
+
+![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/4f3dba2a-58b0-4ee9-85e1-89a91360b290)
+
 
 ## 시연 영상
 용량 문제로 [유튜브 영상 원본](link-to-youtube)을 참고해주세요. 실제 로딩시간과 음성 서비스를 경험할 수 있습니다.
