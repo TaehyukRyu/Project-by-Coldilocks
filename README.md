@@ -15,6 +15,7 @@
 
 
 ## 아이디어의 기원
+<details>
 <summary>접기/펼치기 버튼</summary>
 <div markdown="1">
 
@@ -23,6 +24,9 @@
 ![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/25821245-6dd5-4536-b24d-b343d38616cb)
 
   기사링크:https://news.mt.co.kr/mtview.php?no=2023081417015674137
+
+</div>
+</details>
 
 
 ## 서비스 소개
