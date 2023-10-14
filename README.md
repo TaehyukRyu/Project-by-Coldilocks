@@ -8,11 +8,14 @@
 
 | 사진 | 팀원 | 역할 |
 | --- | --- | --- |
-| ![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/482d4bd8-0211-421e-be64-13f73e3a30b8)| 장동헌 | 크롤링, 시스템개발, 전처리, 백엔드 알고리즘 구현 |
+| <img src="https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/482d4bd8-0211-421e-be64-13f73e3a30b8" width="900" height="125">| 장동헌 | 크롤링, 시스템개발, 전처리, 백엔드 알고리즘 구현 |
 | ![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/025a056f-7ac0-40f3-ae78-2f9839f80fca)| 박민정 | 모델링, 디자이너, 웹 퍼블리싱, 프론트 & 백엔드 개발 |
 | ![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/7609d5ff-ab9f-4794-b61d-4f5bf941c8c4)| 피근우 | 전처리, 데이터 구축, 전처리, 백엔드 알고리즘 구현 |
 | ![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/df2915b7-9f9d-4984-a097-c45b889d1151)| 류태혁 | 모델링, 서버 구축, 백엔드 개발, 웹 기능 구현 테스트 |
 
+<img src="https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/9302ef69-6a0f-423c-9bca-447357ca4990" width="900" height="125">
+
+![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/482d4bd8-0211-421e-be64-13f73e3a30b8)
 
 ## 아이디어의 기원
 ![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/7592735c-c56f-4757-a82b-2e6cd9b9c841)
