@@ -17,13 +17,6 @@
 ## 아이디어의 기원
 ![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/7592735c-c56f-4757-a82b-2e6cd9b9c841)
 ![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/25821245-6dd5-4536-b24d-b343d38616cb)
-![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/7a3e8bd2-0de4-4f57-98cc-4957ef536869)
-![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/6b9a0f1e-bd2e-447e-8de7-f09dde3be63c)
-![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/2dd9300e-b23b-48db-bf80-ebf81b1dd916)
-![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/8ae231ae-ff4c-419c-a118-eced4ffe78c5)
-![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/5945d126-8b8b-4142-bafd-d8794462b1d0)
-
-
 
   기사링크:https://news.mt.co.kr/mtview.php?no=2023081417015674137
 
@@ -32,9 +25,15 @@
 크립톤 퀀트에서 제공 하는 온체인 데이터 중 이상치를 찾아 비트코인 가격 그래프에서 변동성을 설명 할 수 있다고 생각되는 지표를 선정후 그중 선행한다고 판단되는 지표를 분석한다
 >> 
 
-## 참고 지표
+## Dataset
 ![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/b37da0d3-057b-4f90-8180-09518b330218)
 ![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/aaf0377e-3f4b-46cc-8412-12b580878e66)
+![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/7a3e8bd2-0de4-4f57-98cc-4957ef536869)
+![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/6b9a0f1e-bd2e-447e-8de7-f09dde3be63c)
+![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/2dd9300e-b23b-48db-bf80-ebf81b1dd916)
+![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/8ae231ae-ff4c-419c-a118-eced4ffe78c5)
+![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/5945d126-8b8b-4142-bafd-d8794462b1d0)
+
 
 
 
@@ -67,8 +66,10 @@
 각 프로세스마다 요구하는 사항이 다르니, 프로세스별 README.md 파일을 참고해주세요.
 
 ## Usage
+![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/f4fd8e5b-c795-4cbf-a2e9-6e797c3e4944)
+![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/4e673aa8-f26c-4353-ab6f-3ba5c096ad86)
+![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/b10b5b93-5116-44c2-9ac1-ce2d940980a8)
 
-## Dataset
 
 ## Reference and project link
   Dash Borad: 
