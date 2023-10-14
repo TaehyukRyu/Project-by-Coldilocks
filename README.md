@@ -26,9 +26,8 @@
 2. ![텔레그램](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/9f05a380-a404-40ed-a92b-79c0f3d875f0)
 
 
-[My AI Fairy-Tale 바로가기](link-to-service)
 
-> ### :bar_chart: 대쉬보드
+> > ### :bar_chart: 대쉬보드
 --------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/d74ffda3-d658-44ea-bd8b-a05864c54bdf)
 
@@ -37,7 +36,7 @@
 ![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/0a4711fe-05fd-4e3e-bc2d-fc3f76d361c0)
 
 
-> ### :chart: 텔레그램
+> > ### :chart: 텔레그램
 --------------------------------------------------------------------------------------------------------------------
 ![텔레그램](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/d65b1559-cb02-41d8-b008-b19c204dd057)
 
