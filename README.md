@@ -72,9 +72,12 @@
 
 
 ## Reference and project link
-  > Dash Borad: 
-  > Telegram: 
+  > Dash Borad:
+
+  > Telegram:
+
   > cryptoquant: https://cryptoquant.com/ko
+
   > tradingview: https://kr.tradingview.com/
 
 ## END
