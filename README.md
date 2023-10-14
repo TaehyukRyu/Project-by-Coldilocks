@@ -14,7 +14,7 @@
 | <img src="https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/df2915b7-9f9d-4984-a097-c45b889d1151" width="75" height="75">| 류태혁 | 모델링, 서버 구축, 백엔드 개발, 웹 기능 구현 테스트 |
 
 
-## 💵아이디어의 기원
+## 아이디어의 기원
 <details>
 <summary>접기/펼치기 버튼</summary>
 <div markdown="1">
@@ -59,7 +59,7 @@
 
 [My AI Fairy-Tale 바로가기](link-to-service)
 
-### 대쉬보드
+### :bar_chart: 대쉬보드
 --------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/d74ffda3-d658-44ea-bd8b-a05864c54bdf)
 
@@ -68,29 +68,29 @@
 ![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/0a4711fe-05fd-4e3e-bc2d-fc3f76d361c0)
 
 
-### 텔레그램
+### :chart: 텔레그램
 --------------------------------------------------------------------------------------------------------------------
 ![텔레그램](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/d65b1559-cb02-41d8-b008-b19c204dd057)
 
 각 지표에서 이상치가 발생시 텔레그램을 통해서 알려주는 서비스 구현
 
-## 프로젝트 파일트리
+## :pencil: 프로젝트 파일트리
 각 프로세스마다 요구하는 사항이 다르니, 프로세스별 README.md 파일을 참고해주세요.
 
-## Usage
+## :crown: Usage
 ![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/f4fd8e5b-c795-4cbf-a2e9-6e797c3e4944)
 ![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/4e673aa8-f26c-4353-ab6f-3ba5c096ad86)
 ![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/b10b5b93-5116-44c2-9ac1-ce2d940980a8)
 
 
-## Reference and project link
+## :beginner: Reference and project link
   > Telegram: https://t.me/+8hSXtgL02rRhMTJl
 
   > cryptoquant: https://cryptoquant.com/ko
 
   > tradingview: https://kr.tradingview.com/
 
-## END
+## :end: END
 > 해당 프로젝트는 금융 데이터 분석 과정 파이널 프로젝트로 3조 Codilocks가 기획하였습니다.
  
 > 프로젝트 관련한 질문은 jdh5470417@gmail.com 여기로 문의주시면 감사하겠습니다
