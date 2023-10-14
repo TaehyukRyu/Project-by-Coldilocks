@@ -17,6 +17,8 @@
 ## 아이디어의 기원
 <summary>접기/펼치기 버튼</summary>
 <div markdown="1">
+
+  
 ![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/7592735c-c56f-4757-a82b-2e6cd9b9c841)
 ![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/25821245-6dd5-4536-b24d-b343d38616cb)
 
