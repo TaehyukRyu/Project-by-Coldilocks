@@ -8,10 +8,10 @@
 
 | 사진 | 팀원 | 역할 |
 | --- | --- | --- |
-| ![Minju](link-to-image) | 장동헌 | 크롤링, 시스템개발, 전처리, 백엔드 알고리즘 구현 |
-| ![Kijun](link-to-image) | 박민정 | 모델링, 디자이너, 웹 퍼블리싱, 프론트 & 백엔드 개발 |
-| ![Jeongyun](link-to) | 피근우 | 전처리, 데이터 구축, 전처리, 백엔드 알고리즘 구현 |
-| ![Junyeok](<img src="/uploads/1848994ad25765da30fa8ef3684c67bc/캡처.PNG"  width="700" height="370">) | 류태혁 | 모델링, 서버 구축, 백엔드 개발, 웹 기능 구현 테스트 |
+|![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/482d4bd8-0211-421e-be64-13f73e3a30b8)| 장동헌 | 크롤링, 시스템개발, 전처리, 백엔드 알고리즘 구현 |
+|![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/025a056f-7ac0-40f3-ae78-2f9839f80fca)| 박민정 | 모델링, 디자이너, 웹 퍼블리싱, 프론트 & 백엔드 개발 |
+|![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/7609d5ff-ab9f-4794-b61d-4f5bf941c8c4)| 피근우 | 전처리, 데이터 구축, 전처리, 백엔드 알고리즘 구현 |
+|![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/df2915b7-9f9d-4984-a097-c45b889d1151)| 류태혁 | 모델링, 서버 구축, 백엔드 개발, 웹 기능 구현 테스트 |
 
 
 ## 아이디어의 기원
@@ -72,16 +72,20 @@
 
 
 ## Reference and project link
-  > Dash Borad:
-
-  > Telegram:
+  > Telegram: https://t.me/+8hSXtgL02rRhMTJl
 
   > cryptoquant: https://cryptoquant.com/ko
 
   > tradingview: https://kr.tradingview.com/
 
 ## END
-
+> 해당 프로젝트는 금융 데이터 분석 과정 파이널 프로젝트로 3조 Codilocks가 기획하였습니다.
+ 
+> 프로젝트 관련한 질문은 jdh5470417@gmail.com 여기로 문의주시면 감사하겠습니다
+>  > 장동헌: jdh5470417@gmail.com
+>  > 류태혁: xogur1578@gmail.com
+>  > 박민정: qkralswjdqkd@gmail.com
+>  > 피근우: pdcjsrnr@naver.com
 
 ```bash
 pip install -r requirements.txt
