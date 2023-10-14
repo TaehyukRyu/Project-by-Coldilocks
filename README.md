@@ -33,6 +33,10 @@
 >> 
 
 ## Dataset
+<details>
+<summary>접기/펼치기 버튼</summary>
+<div markdown="1">
+
 ![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/b37da0d3-057b-4f90-8180-09518b330218)
 ![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/aaf0377e-3f4b-46cc-8412-12b580878e66)
 ![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/7a3e8bd2-0de4-4f57-98cc-4957ef536869)
@@ -41,8 +45,8 @@
 ![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/8ae231ae-ff4c-419c-a118-eced4ffe78c5)
 ![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/5945d126-8b8b-4142-bafd-d8794462b1d0)
 
-
-
+</div>
+</details>
 
 ## :cyclone:서비스
 
