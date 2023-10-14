@@ -1,6 +1,6 @@
 # :moneybag: 온체인데이터를 활용한 비트코인 변동 ‘이상징후 경고 시스템’:chart_with_upwards_trend:
 
-## 소개
+## :mailbox_with_mail: 소개
   <h1 align="center" style="font-size: 20px;"> 프로젝트의 주제는 "온체인데이터를 활용한 이상치 발견 및 변동성 예측 모델"입니다. 최근 암호화폐 시장이 급속한 성장을 보이며, 이에 따라 투자 위험도가 높아지고 있습니다. 이런 상황에서,  “크립토퀀트”가 제공하는 데이터를 활용하여 이상징후를 사전에 발견하고, 이를 통해 가격 변동성을 예측하는 것이 본 프로젝트의 핵심 목표입니다.</h1>
 
 ## :trophy: Team Codilocks
@@ -14,7 +14,7 @@
 | <img src="https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/df2915b7-9f9d-4984-a097-c45b889d1151" width="75" height="75">| 류태혁 | 모델링, 서버 구축, 백엔드 개발, 웹 기능 구현 테스트 |
 
 
-## 아이디어의 기원
+## :moneybag: 아이디어의 기원
 <details>
 <summary>접기/펼치기 버튼</summary>
 <div markdown="1">
@@ -28,11 +28,11 @@
 </details>
 
 
-## 서비스 소개
+## :credit_card: 서비스 소개
 크립톤 퀀트에서 제공 하는 온체인 데이터 중 이상치를 찾아 비트코인 가격 그래프에서 변동성을 설명 할 수 있다고 생각되는 지표를 선정후 그중 선행한다고 판단되는 지표를 분석한다
 >> 
 
-## Dataset
+## :dollar: Dataset
 <details>
 <summary>접기/펼치기 버튼</summary>
 <div markdown="1">
