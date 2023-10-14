@@ -83,8 +83,11 @@
 
 > :hammer: 사용 기술 및 라이브러리
 > > Language: Python
+
 > > Environment: Vscode, Pycham
+
 > > Crolling and Api tools: Selenium, Beautiful Soup, Pyautogui, Telegram, asyncio
+
 > > Library: Pandas, Numpy, Scikit-learn, Streamlit, Plotly, Maplotlib, Seabron, Y-finance, Ccxt
 
 ## :beginner: Reference and project link
