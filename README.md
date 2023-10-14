@@ -14,7 +14,7 @@
 | <img src="https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/df2915b7-9f9d-4984-a097-c45b889d1151" width="75" height="75">| 류태혁 | 모델링, 서버 구축, 백엔드 개발, 웹 기능 구현 테스트 |
 
 
-## 아이디어의 기원
+## 💵아이디어의 기원
 <details>
 <summary>접기/펼치기 버튼</summary>
 <div markdown="1">
