@@ -78,12 +78,12 @@
 
 ## :crown: Usage
 
-> :slot_machine: **사용 모델**
+> ### :slot_machine: **사용 모델**
 ![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/f4fd8e5b-c795-4cbf-a2e9-6e797c3e4944)
 ![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/4e673aa8-f26c-4353-ab6f-3ba5c096ad86)
 ![image](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/b10b5b93-5116-44c2-9ac1-ce2d940980a8)
 
-> :hammer: **사용 기술 및 라이브러리**
+> ### :hammer: **사용 기술 및 라이브러리**
 > > Language: Python
 
 > > Environment: Vscode, Pycham
