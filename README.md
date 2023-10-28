@@ -8,10 +8,10 @@
 
 | 사진 | 팀원 | 역할 |
 | --- | --- | --- |
-| <img src="https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/482d4bd8-0211-421e-be64-13f73e3a30b8" width="75" height="75">| 장동헌 | 크롤링, 시스템개발, 전처리, 백엔드 알고리즘 구현 |
-| <img src="https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/025a056f-7ac0-40f3-ae78-2f9839f80fca" width="75" height="75">| 박민정 | 모델링, 디자이너, 웹 퍼블리싱, 프론트 & 백엔드 개발 |
-| <img src="https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/7609d5ff-ab9f-4794-b61d-4f5bf941c8c4" width="75" height="75">| 피근우 | 전처리, 데이터 구축, 전처리, 백엔드 알고리즘 구현 |
-| <img src="https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/df2915b7-9f9d-4984-a097-c45b889d1151" width="75" height="75">| 류태혁 | 모델링, 서버 구축, 백엔드 개발, 웹 기능 구현 테스트 |
+| <img src="https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/482d4bd8-0211-421e-be64-13f73e3a30b8" width="75" height="75">| 장동헌 | 주제 아이디어 제시, 분석기획 구체화, 시스템구현 코딩, 크롤링 코딩 |
+| <img src="https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/025a056f-7ac0-40f3-ae78-2f9839f80fca" width="75" height="75">| 박민정 | 자료제작, Notion/ppt 제작 및 관리, 모델 파라미터 코드수정 |
+| <img src="https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/7609d5ff-ab9f-4794-b61d-4f5bf941c8c4" width="75" height="75">| 피근우 | 데이터품질 관리, 일일보고 및 서류관리, 중간보고 발표, 크롤링 전처리작업 |
+| <img src="https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/df2915b7-9f9d-4984-a097-c45b889d1151" width="75" height="75">| 류태혁 | 프로젝트 팀장, 모델제작, Github코드정리, 프로젝트 발표 |
 
 ## :credit_card: 서비스 소개
 크립톤 퀀트에서 제공 하는 온체인 데이터 중 이상치를 찾아 비트코인 가격 그래프에서 변동성을 설명 할 수 있다고 생각되는 지표를 선정후 그중 선행한다고 판단되는 지표를 분석한다
