@@ -97,7 +97,7 @@
   > tradingview: https://kr.tradingview.com/
 
 ## :pencil: 프로젝트 파일트리
->📦Codilocks
+📦Codilocks
  ┣ 📂데이터
  ┃ ┣ 📂전처리된 지표 크롤링 데이터
  ┃ ┃ ┣ 📜SOPR 비율 (장기 보유자 SOPR.xlsx
