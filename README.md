@@ -97,7 +97,7 @@
   > tradingview: https://kr.tradingview.com/
 
 ## :pencil: 프로젝트 파일트리
-## 프로젝트 링크 ##: https://drive.google.com/drive/folders/1vnLvd-srM9VmeD6aHII9b-Q8AE0PtrEG?usp=drive_link
+> ## 프로젝트 링크 ##: https://drive.google.com/drive/folders/1vnLvd-srM9VmeD6aHII9b-Q8AE0PtrEG?usp=drive_link
 
 ![파일트리1](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/c8d20e98-7599-4ba8-b869-262d434232fa)
 ![파일트리2](https://github.com/TaehyukRyu/Project-by-Coldilocks/assets/141690029/02b2315b-aa71-4be9-ae3c-a60a99f0b990)
